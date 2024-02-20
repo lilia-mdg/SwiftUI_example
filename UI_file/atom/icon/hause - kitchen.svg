@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>atom/icon/hause - kitchen</title>
+    <g id="atom/icon/hause---kitchen" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect id="path" stroke="#242936" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" x="2" y="3" width="20" height="18"></rect>
+        <path d="M6,10 L18,10 L18,15 C18,16.6568542 16.6568542,18 15,18 L9,18 C7.34314575,18 6,16.6568542 6,15 L6,10 L6,10 Z" id="path" stroke="#242936" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+        <circle id="path" fill="#242936" cx="6" cy="6.5" r="1"></circle>
+        <circle id="path" fill="#242936" cx="10" cy="6.5" r="1"></circle>
+        <circle id="path" fill="#242936" cx="14" cy="6.5" r="1"></circle>
+        <circle id="path" fill="#242936" cx="18" cy="6.5" r="1"></circle>
+        <line x1="5" y1="21" x2="5" y2="22.6666667" id="path" stroke="#242936" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></line>
+        <line x1="19" y1="21" x2="19" y2="22.6666667" id="path" stroke="#242936" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></line>
+        <line x1="2" y1="10" x2="22" y2="10" id="path" stroke="#242936" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></line>
+    </g>
+</svg>

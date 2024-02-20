@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" style="background: #FFFFFF;">
+    <title>atom/icon/hause - livingroom</title>
+    <g id="atom/icon/hause---livingroom" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect fill="#FFFFFF" x="0" y="0" width="24" height="24"></rect>
+        <circle id="Oval" stroke="#242936" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" cx="3" cy="17" r="2"></circle>
+        <circle id="Oval-Copy" stroke="#242936" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" cx="14" cy="10" r="8"></circle>
+        <circle id="Oval" stroke="#242936" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" cx="14" cy="10" r="4"></circle>
+        <polygon id="Rectangle" stroke="#242936" stroke-width="2" fill="#FFFFFF" stroke-linecap="round" stroke-linejoin="round" points="5 13 13 13 12 22 6 22"></polygon>
+    </g>
+</svg>

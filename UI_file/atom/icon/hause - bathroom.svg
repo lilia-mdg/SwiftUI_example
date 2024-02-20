@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" style="background: #FFFFFF;">
+    <title>atom/icon/hause - bathroom</title>
+    <g id="atom/icon/hause---bathroom" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect fill="#FFFFFF" x="0" y="0" width="24" height="24"></rect>
+        <path d="M20,13 L20,16 C20,18.7614237 17.7614237,21 15,21 L9,21 C6.23857625,21 4,18.7614237 4,16 L4,11" id="path" stroke="#242936" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+        <line x1="6" y1="21" x2="5" y2="22.6666667" id="path" stroke="#242936" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></line>
+        <line x1="18" y1="21" x2="19" y2="22.6666667" id="path" stroke="#242936" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></line>
+        <path d="M15,4.46783344 L15.2320099,3.60899076 C15.488503,2.65951722 16.3498249,2 17.3333333,2 C18.2538079,2 19,2.74619208 19,3.66666667 L19,12 L19,12" id="path" stroke="#242936" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+        <line x1="13" y1="4.83096808" x2="15.773409" y2="5.83096808" id="path" stroke="#242936" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></line>
+        <path d="M2,11.2694901 C2.98156753,10.4231634 4.4096146,10 6.28414121,10 C13.4525129,10 14.6829694,12.7535696 19.2386236,12.7535696 C20.2848188,12.7535696 21.1542648,12.5922098 21.8469616,12.2694901" id="path" stroke="#242936" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+    </g>
+</svg>

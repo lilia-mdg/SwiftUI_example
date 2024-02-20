@@ -11,7 +11,8 @@ import SwiftUI
 struct SwiftUI_exampleApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+//            ContentView()
+            SubscribeView(email: .constant("lilia@gmail.com"))
         }
     }
 }

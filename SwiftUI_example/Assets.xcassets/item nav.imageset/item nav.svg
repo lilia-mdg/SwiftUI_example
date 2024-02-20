@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="48px" height="48px" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>item nav</title>
+    <g id="Neumorphic" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Neeeu-[random-ui-2]" transform="translate(-162, -931)">
+            <g id="search-page" transform="translate(138, 194)">
+                <g id="navigation-bar" transform="translate(0, 710)">
+                    <g id="item-nav" transform="translate(24, 27)">
+                        <rect id="container-item" x="0" y="0" width="48" height="48"></rect>
+                        <g id="bell" transform="translate(12, 15)" stroke="#626260" stroke-linecap="round" stroke-linejoin="round" stroke-width="2">
+                            <rect id="Path" x="0" y="14" width="24" height="4" rx="2"></rect>
+                            <path d="M22,13.5 C22,7.9771525 17.5228475,3.5 12,3.5 C6.4771525,3.5 2,7.9771525 2,13.5" id="Path"></path>
+                            <path d="M15,3 C15,1.34314575 13.6568542,0 12,0 C10.3431458,0 9,1.34314575 9,3" id="Path"></path>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

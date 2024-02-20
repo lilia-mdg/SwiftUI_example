@@ -7,18 +7,36 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		FAA12EA92B83B52900268C8E /* ToggleStyles.swift in Sources */ = {isa = PBXBuildFile; fileRef = FAA12EA82B83B52900268C8E /* ToggleStyles.swift */; };
+		FAA12EAB2B83C4F500268C8E /* TextFieldStyles.swift in Sources */ = {isa = PBXBuildFile; fileRef = FAA12EAA2B83C4F500268C8E /* TextFieldStyles.swift */; };
+		FAA12EAD2B83CF6300268C8E /* SubscribeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = FAA12EAC2B83CF6300268C8E /* SubscribeView.swift */; };
+		FAA12EAF2B851E3B00268C8E /* PinView.swift in Sources */ = {isa = PBXBuildFile; fileRef = FAA12EAE2B851E3B00268C8E /* PinView.swift */; };
+		FAA12EB12B85220700268C8E /* FoodGalleryView.swift in Sources */ = {isa = PBXBuildFile; fileRef = FAA12EB02B85220700268C8E /* FoodGalleryView.swift */; };
+		FAA12EB32B8528A300268C8E /* FoodItem.swift in Sources */ = {isa = PBXBuildFile; fileRef = FAA12EB22B8528A300268C8E /* FoodItem.swift */; };
 		FAAE43E02B81215500E38E7D /* SwiftUI_exampleApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = FAAE43DF2B81215500E38E7D /* SwiftUI_exampleApp.swift */; };
 		FAAE43E22B81215500E38E7D /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = FAAE43E12B81215500E38E7D /* ContentView.swift */; };
 		FAAE43E42B81215E00E38E7D /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = FAAE43E32B81215E00E38E7D /* Assets.xcassets */; };
 		FAAE43E72B81215E00E38E7D /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = FAAE43E62B81215E00E38E7D /* Preview Assets.xcassets */; };
+		FAAE43EF2B822FCE00E38E7D /* TextStyles.swift in Sources */ = {isa = PBXBuildFile; fileRef = FAAE43EE2B822FCE00E38E7D /* TextStyles.swift */; };
+		FAAE43F12B82361A00E38E7D /* ButtonStyles.swift in Sources */ = {isa = PBXBuildFile; fileRef = FAAE43F02B82361A00E38E7D /* ButtonStyles.swift */; };
+		FAAE43F32B82482800E38E7D /* ShadowStyles.swift in Sources */ = {isa = PBXBuildFile; fileRef = FAAE43F22B82482800E38E7D /* ShadowStyles.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		FAA12EA82B83B52900268C8E /* ToggleStyles.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ToggleStyles.swift; sourceTree = "<group>"; };
+		FAA12EAA2B83C4F500268C8E /* TextFieldStyles.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TextFieldStyles.swift; sourceTree = "<group>"; };
+		FAA12EAC2B83CF6300268C8E /* SubscribeView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SubscribeView.swift; sourceTree = "<group>"; };
+		FAA12EAE2B851E3B00268C8E /* PinView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PinView.swift; sourceTree = "<group>"; };
+		FAA12EB02B85220700268C8E /* FoodGalleryView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FoodGalleryView.swift; sourceTree = "<group>"; };
+		FAA12EB22B8528A300268C8E /* FoodItem.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FoodItem.swift; sourceTree = "<group>"; };
 		FAAE43DC2B81215500E38E7D /* SwiftUI_example.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SwiftUI_example.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		FAAE43DF2B81215500E38E7D /* SwiftUI_exampleApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUI_exampleApp.swift; sourceTree = "<group>"; };
 		FAAE43E12B81215500E38E7D /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		FAAE43E32B81215E00E38E7D /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		FAAE43E62B81215E00E38E7D /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		FAAE43EE2B822FCE00E38E7D /* TextStyles.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TextStyles.swift; sourceTree = "<group>"; };
+		FAAE43F02B82361A00E38E7D /* ButtonStyles.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ButtonStyles.swift; sourceTree = "<group>"; };
+		FAAE43F22B82482800E38E7D /* ShadowStyles.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ShadowStyles.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -51,10 +69,15 @@
 		FAAE43DE2B81215500E38E7D /* SwiftUI_example */ = {
 			isa = PBXGroup;
 			children = (
+				FAAE43ED2B822FA800E38E7D /* StyleGuide */,
 				FAAE43DF2B81215500E38E7D /* SwiftUI_exampleApp.swift */,
 				FAAE43E12B81215500E38E7D /* ContentView.swift */,
 				FAAE43E32B81215E00E38E7D /* Assets.xcassets */,
 				FAAE43E52B81215E00E38E7D /* Preview Content */,
+				FAA12EAC2B83CF6300268C8E /* SubscribeView.swift */,
+				FAA12EAE2B851E3B00268C8E /* PinView.swift */,
+				FAA12EB02B85220700268C8E /* FoodGalleryView.swift */,
+				FAA12EB22B8528A300268C8E /* FoodItem.swift */,
 			);
 			path = SwiftUI_example;
 			sourceTree = "<group>";
@@ -65,6 +88,18 @@
 				FAAE43E62B81215E00E38E7D /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		FAAE43ED2B822FA800E38E7D /* StyleGuide */ = {
+			isa = PBXGroup;
+			children = (
+				FAAE43EE2B822FCE00E38E7D /* TextStyles.swift */,
+				FAAE43F02B82361A00E38E7D /* ButtonStyles.swift */,
+				FAAE43F22B82482800E38E7D /* ShadowStyles.swift */,
+				FAA12EA82B83B52900268C8E /* ToggleStyles.swift */,
+				FAA12EAA2B83C4F500268C8E /* TextFieldStyles.swift */,
+			);
+			path = StyleGuide;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -137,8 +172,17 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				FAA12EAB2B83C4F500268C8E /* TextFieldStyles.swift in Sources */,
+				FAAE43F32B82482800E38E7D /* ShadowStyles.swift in Sources */,
+				FAA12EA92B83B52900268C8E /* ToggleStyles.swift in Sources */,
+				FAA12EAD2B83CF6300268C8E /* SubscribeView.swift in Sources */,
+				FAAE43F12B82361A00E38E7D /* ButtonStyles.swift in Sources */,
+				FAA12EAF2B851E3B00268C8E /* PinView.swift in Sources */,
+				FAAE43EF2B822FCE00E38E7D /* TextStyles.swift in Sources */,
 				FAAE43E22B81215500E38E7D /* ContentView.swift in Sources */,
 				FAAE43E02B81215500E38E7D /* SwiftUI_exampleApp.swift in Sources */,
+				FAA12EB12B85220700268C8E /* FoodGalleryView.swift in Sources */,
+				FAA12EB32B8528A300268C8E /* FoodItem.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
